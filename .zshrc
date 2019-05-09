@@ -81,6 +81,7 @@ plugins=(
 )
 
 source $ZSH/oh-my-zsh.sh
+source ~/.zshmacros
 
 # User configuration
 
